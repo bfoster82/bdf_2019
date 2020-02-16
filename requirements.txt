@@ -1,0 +1,9 @@
+pandas
+scikit-learn
+numpy
+pandas_gbq
+matplotlib
+google-cloud-storage
+google-cloud-bigquery-storage
+flask
+pyarrow
