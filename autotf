@@ -4,13 +4,6 @@
 #  -  Offers choice between boxcox or log / exponential transformation
 #  -  Automatically handles negative values
 #  -  Auto recognizes positive /negative skewness
-
-# Further documentation available here:
-# https://datamadness.github.io/Skewness_Auto_Transform
-
-
-
-
 import seaborn as sns
 import numpy as np
 import math
